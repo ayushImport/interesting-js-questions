@@ -28,4 +28,4 @@ Reverse each word in the sentence
 
 *Final Output*: 
 
-```block building a as word taking sentence a Reverse``` 
+```esreveR a ecnetnes gnikat drow sa a gnidliub kcolb``` 
