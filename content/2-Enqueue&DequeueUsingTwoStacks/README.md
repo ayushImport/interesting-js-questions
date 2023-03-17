@@ -4,7 +4,7 @@
 
 ### Stacks
 
-* First in Last Out
+* Last in First Out
 
 ### Enqueue
 

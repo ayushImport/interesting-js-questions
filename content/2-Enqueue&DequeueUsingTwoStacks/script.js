@@ -10,7 +10,11 @@ function enqueue(item) {
 function dequeue() {
     let poppedItem = stack1.pop()
     stack2.push(poppedItem)
+    console.log('Dequed element:', poppedItem)
+    console.log('Stack after DEQUEUE:\nStack1:', stack1, '\nStack2:', stack2)
 }
 
 
-en
+enqueue('a')
+enqueue('b')
+dequeue()
